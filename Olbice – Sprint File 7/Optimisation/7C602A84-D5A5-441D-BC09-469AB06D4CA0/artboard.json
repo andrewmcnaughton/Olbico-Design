@@ -1,0 +1,143 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "FB2FB96F-5F26-4F78-9A50-698BC5A98E10",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "7C602A84-D5A5-441D-BC09-469AB06D4CA0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A1B5457A-D51E-4846-B3B4-CD87C1C439A9",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "63A505C2-DB31-4B50-9A00-BD067055F6B4",
+    "height": 2080,
+    "width": 1440,
+    "x": 4009,
+    "y": -3022
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "C5A92AD7-7209-44F6-A847-890B4827FD61",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "2F7E5B76-CA4D-4B11-AFF4-EB072CF680BA"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "B4611C31-1934-4223-8FC2-447D14C63232",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "D919D8BD-116E-4296-8B57-15057F6C57FE"
+    },
+    {
+      "class": "group",
+      "id": "20377B67-E1A3-455D-BD7B-B056F595C64C"
+    },
+    {
+      "class": "group",
+      "id": "275439AB-0822-4E0C-A641-762BD5CA92E2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "50FB4CDF-C378-402F-8175-2005420E3E77"
+    },
+    {
+      "class": "group",
+      "id": "716AABDA-321C-487E-B7FA-4A1A2F21FF4D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C33BE9C8-0FF1-40EB-B4D9-61F4219FB9DF"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 80,
+    "do_objectID": "53367E99-A5B7-43CB-814C-BAFD728BEB5E",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 40,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1440
+  },
+  "name": "D - X - 404",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FE160A84-B15A-4578-9390-9F7624D25647",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "C2DFC809-BA40-4482-93CC-B49B5F6E1268",
+    "guides": [
+    ]
+  }
+}

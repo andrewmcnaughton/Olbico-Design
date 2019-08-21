@@ -1,0 +1,152 @@
+{
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.2784313725490196,
+    "green": 0.06274509803921569,
+    "red": 0.05098039215686274
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 671,
+  "clippingMaskMode": 0,
+  "do_objectID": "8DCD4E36-6E6B-4DF9-883E-4B2447C96B3F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "099AD495-8258-48C1-BAAC-DE6DC87478C5",
+    "height": 900,
+    "width": 1443,
+    "x": 8814,
+    "y": 3369
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "96A634E5-4BE9-4C0E-8D40-4B528F14C350"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "1920CBE9-302D-4F32-8243-277196FC2E7F",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "A9EEEA50-E3F6-4A7E-9036-556DD505860D"
+    },
+    {
+      "class": "oval",
+      "id": "491C6DD7-990D-4B3F-A679-66A811299C4C"
+    },
+    {
+      "class": "oval",
+      "id": "5EDCA0DC-F853-4109-80BC-DAE2334B68C4"
+    },
+    {
+      "class": "oval",
+      "id": "3931AA2A-748B-4AAC-AB6A-DAEF498FCC13"
+    },
+    {
+      "class": "shapePath",
+      "id": "02B59E2E-B84B-4052-A821-F9335011D06B"
+    },
+    {
+      "class": "shapePath",
+      "id": "AE9D51F4-4F57-413B-BD3C-F629CD20C1D0"
+    },
+    {
+      "class": "shapePath",
+      "id": "2A87B220-E4CA-4E99-B8E6-1644D31D09A2"
+    },
+    {
+      "class": "shapePath",
+      "id": "0891A67C-AC91-4CC7-9038-725BA467EF2A"
+    },
+    {
+      "class": "shapePath",
+      "id": "CE3FD805-D6BC-4B11-92E8-AA21FD255C7C"
+    },
+    {
+      "class": "oval",
+      "id": "1EB36623-4B3C-4E91-B4D0-0C6DD862B16F"
+    },
+    {
+      "class": "rectangle",
+      "id": "A7FB23BA-50AC-45D0-8D52-15E2B226065B"
+    },
+    {
+      "class": "shapePath",
+      "id": "6BCD77DE-68D2-45E9-8BF0-79E9B6DD23E4"
+    },
+    {
+      "class": "shapePath",
+      "id": "06E96FE3-8684-4BDC-B9AF-2A0785803148"
+    },
+    {
+      "class": "shapePath",
+      "id": "CCE154D9-F73C-45C1-AF87-41D782A7AA68"
+    },
+    {
+      "class": "shapePath",
+      "id": "539BB071-0A28-4D74-81AD-554DC3FA829E"
+    },
+    {
+      "class": "shapePath",
+      "id": "F20EA58D-FAAC-49E4-B2DE-90EA8D81E123"
+    },
+    {
+      "class": "shapePath",
+      "id": "01502E95-FC0A-46DE-9AD8-551584650935"
+    }
+  ],
+  "name": "Illustration/Newsletter",
+  "nameIsFixed": true,
+  "overrideProperties": [
+  ],
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "016CC147-2F23-466C-BFAE-AEAB05DB8C32",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F7500F4B-41B7-47BE-B888-0E9309312328",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "047E1DD1-A7C8-46B6-AF21-05D1E9831BD7",
+    "guides": [
+    ]
+  }
+}

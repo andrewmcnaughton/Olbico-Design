@@ -1,0 +1,113 @@
+{
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "F7C8AC95-1186-45EC-875D-31006EFD3787",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 4053,
+  "clippingMaskMode": 0,
+  "do_objectID": "D9A5F012-A5F1-4E53-A56B-5F2E3616705A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "78CB4EF5-DD79-41C7-8433-1A8A6469334E",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E2D53001-8DF2-40D1-922D-E5D9F6FD791B",
+    "height": 24,
+    "width": 24,
+    "x": 2805,
+    "y": 79
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "98863DE9-05F7-4F42-87DD-F7FA5C1BA556",
+    "guides": [
+      0,
+      24,
+      12
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "47D6F4F8-FAFC-4A19-BB97-E129BBB570EC"
+    },
+    {
+      "class": "shapePath",
+      "id": "50DBAF48-2471-4B15-BEB0-5B9F24BA996A"
+    },
+    {
+      "class": "shapePath",
+      "id": "51901072-8481-425E-8DFB-C17ABC12589F"
+    },
+    {
+      "class": "shapePath",
+      "id": "C0B82EA2-D9A7-46FC-AEB8-0DF72A35E218"
+    }
+  ],
+  "name": "icons/calendar/black",
+  "nameIsFixed": true,
+  "overrideProperties": [
+  ],
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "42F99BF4-F17C-4BE8-BDED-70B9A1FAA875",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5827712B-9A3A-40D4-808A-D77620D49ABC",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "AEB5811E-6473-4CE3-B8AE-699BAF0302C4",
+    "guides": [
+    ]
+  }
+}

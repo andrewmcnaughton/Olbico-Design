@@ -1,0 +1,112 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5207BA11-28EC-4944-991E-4C3D7F36073A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "17A68E02-E6DA-438A-A8F9-C10276CD30C9",
+    "height": 200,
+    "width": 149,
+    "x": 85,
+    "y": 25
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "B4235CDC-636F-42A2-8F71-F0691B0E33DB"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "944D566B-708A-4643-9B2A-EC35DAFA8838"
+    },
+    {
+      "class": "shapePath",
+      "id": "D62F1350-4E11-449A-B05B-9EEFFD0BA3FA"
+    },
+    {
+      "class": "shapePath",
+      "id": "85F7ACD7-4849-468A-9E67-BFADCD2EF0FD"
+    },
+    {
+      "class": "shapePath",
+      "id": "5B3CE36E-967D-4649-ABD0-44654DE1C0C8"
+    },
+    {
+      "class": "shapePath",
+      "id": "0670CCDA-740E-4F8C-818F-5A93185DC251"
+    },
+    {
+      "class": "shapePath",
+      "id": "2548C70A-DD87-49D9-8D9D-64C59FB37BAE"
+    },
+    {
+      "class": "shapePath",
+      "id": "80233908-8929-4205-B393-8EED0C2E0885"
+    },
+    {
+      "class": "shapePath",
+      "id": "B007D290-5395-4A98-8ECE-7AD18A594AF6"
+    },
+    {
+      "class": "shapePath",
+      "id": "35658718-3F0A-4DC5-8D3D-50853925A032"
+    },
+    {
+      "class": "shapePath",
+      "id": "DEC60E33-476D-4407-A417-8D7CA5D9C7C6"
+    },
+    {
+      "class": "shapePath",
+      "id": "D5000B71-DDE0-4616-8B63-3319FC813E0E"
+    },
+    {
+      "class": "shapePath",
+      "id": "2808ECCF-55ED-4715-B1A7-8F24AE7C9138"
+    },
+    {
+      "class": "shapePath",
+      "id": "396B3636-3166-406A-8F46-670381BB31FA"
+    },
+    {
+      "class": "shapePath",
+      "id": "016986E9-61CB-46BF-81A7-6F704E7AB590"
+    },
+    {
+      "class": "shapePath",
+      "id": "3A76B9BA-155C-4789-BB7E-3158B675D557"
+    }
+  ],
+  "name": "Illo/Tip",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D4A2EB47-FADA-4328-A09F-1988FC8CB68D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

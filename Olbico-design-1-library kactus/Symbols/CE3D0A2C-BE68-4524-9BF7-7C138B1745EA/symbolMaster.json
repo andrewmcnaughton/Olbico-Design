@@ -1,0 +1,105 @@
+{
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "02548998-7D27-422E-A3D5-0D923023523C",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 4042,
+  "clippingMaskMode": 0,
+  "do_objectID": "CE3D0A2C-BE68-4524-9BF7-7C138B1745EA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "656880A1-2377-43E8-A576-0054DDD6CE8D",
+    "height": 560,
+    "width": 560,
+    "x": 31206,
+    "y": 74
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "5AFB8293-B887-4277-B5F5-04A850D12564"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "81E4D519-D320-4A8A-A1E7-BEB11AA0D1CD",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "276B0DE9-8C0F-4F6E-9FEB-9D6759CCAA0D"
+    },
+    {
+      "class": "shapePath",
+      "id": "858C7E40-528A-4E19-AA8C-31F79A2500F5"
+    },
+    {
+      "class": "shapePath",
+      "id": "2D3C1BF5-EC87-432F-96A3-292705EB7285"
+    },
+    {
+      "class": "shapePath",
+      "id": "3E506192-935F-40D9-94FF-8BACC1E1CA90"
+    },
+    {
+      "class": "oval",
+      "id": "4D570CA0-B928-4A26-AF2C-1D06F3E1BDAB"
+    }
+  ],
+  "name": "Illustration/Menu/Products-alternative",
+  "nameIsFixed": true,
+  "overrideProperties": [
+  ],
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4831BF0B-E6A8-4E9B-8411-E0A5A7834CF1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "03B954B3-7C61-45C2-B50E-D034ED7BC029",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "005B0D66-79C3-4959-834B-6DDCB9B8C76E",
+    "guides": [
+    ]
+  }
+}

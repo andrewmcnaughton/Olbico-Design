@@ -1,0 +1,72 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "39AA856B-CA70-458E-8980-1E05839585F0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5942F658-E8ED-419D-A922-4F6EAB55D50E",
+    "height": 158,
+    "width": 188,
+    "x": 66,
+    "y": 46
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "363800B4-E912-4090-B35A-A08093F5E312"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "B860AB82-5489-43A5-A944-025334F9EE41"
+    },
+    {
+      "class": "shapePath",
+      "id": "3451579C-52D4-44A6-9261-C4E59AAB690D"
+    },
+    {
+      "class": "group",
+      "id": "D83F8328-B9F5-4788-A37D-D778E64D9B08"
+    },
+    {
+      "class": "shapePath",
+      "id": "3DA2441B-FD05-4025-A1FD-41BD8416120A"
+    },
+    {
+      "class": "shapePath",
+      "id": "87A7B7B7-1C21-4C88-9E75-FAD27A73282C"
+    }
+  ],
+  "name": "Illo/News",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6CCC1B96-1FFE-42A1-AE78-F3AE6C06A79B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

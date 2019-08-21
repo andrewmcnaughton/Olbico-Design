@@ -1,0 +1,163 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "1C10E267-3023-4FB8-BB8E-42BB2133F8F0",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "C383BEF3-496C-436F-B251-E051B068E49A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6C4D9523-D76B-41B2-94E2-C00D75D78122",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1AB6EB72-D8B7-45F6-B87F-C323C8B6AD22",
+    "height": 900,
+    "width": 1440,
+    "x": -785,
+    "y": -847
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "3C31543B-9E3C-4789-BBB9-83982CF199BC",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "53FCCF11-398F-4F68-9785-902472F61FAF"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "65FBD666-2B7C-4A3E-B88B-2C9307AE5001",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "BF60B068-6979-4FE6-90C9-155B526B78CB"
+    },
+    {
+      "class": "rectangle",
+      "id": "0C13E84F-2787-4F9E-A35F-289EA46C4AB0"
+    },
+    {
+      "class": "rectangle",
+      "id": "D04834FE-C81E-40B4-B3F2-E5B358492863"
+    },
+    {
+      "class": "text",
+      "id": "12D5008E-D45C-4F9C-8489-C600413C8AD6"
+    },
+    {
+      "class": "text",
+      "id": "5E3102CC-F125-4B0F-9B26-1375B1A228A7"
+    },
+    {
+      "class": "text",
+      "id": "0C25696D-FB68-4148-9602-C54090784624"
+    },
+    {
+      "class": "text",
+      "id": "A327F7F8-F163-4F6B-B5B5-61B317A80542"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4E55D39C-21E0-414C-8657-1A1AB1164CAD"
+    },
+    {
+      "class": "rectangle",
+      "id": "AB65DEEF-BF03-4440-837B-5D6BA5B7095B"
+    },
+    {
+      "class": "bitmap",
+      "id": "CBA60194-8282-401B-B5E5-AEF1BF2ED836"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DF37ED66-EAA6-403E-B78C-4829AB076354"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 80,
+    "do_objectID": "842ACDE1-4368-4CFF-AE95-E3DFEF27B17B",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 40,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1440
+  },
+  "name": "D - 0 - 1 - Menu Active - Why Olbico",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CA2F2885-D7A4-4F80-A09E-275C05E0D760",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "2FBCD5A3-08BD-4FEC-8A8B-46CC80769B71",
+    "guides": [
+    ]
+  }
+}

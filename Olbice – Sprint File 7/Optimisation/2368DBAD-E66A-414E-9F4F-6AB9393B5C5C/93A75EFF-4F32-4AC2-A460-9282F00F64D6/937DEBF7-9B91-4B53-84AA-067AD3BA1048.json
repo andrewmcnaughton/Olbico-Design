@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "937DEBF7-9B91-4B53-84AA-067AD3BA1048",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9F31F7BE-02B2-49E3-B08A-3889E9016085",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7E83C3AA-B318-4FEB-B65C-F8D1C5083688",
+    "height": 45,
+    "width": 255,
+    "x": 45,
+    "y": 276
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "button/icon-text",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7AFDB612-7CDC-421B-9FE0-AC37EA00298D",
+      "overrideName": "F6289341-A2B6-47D7-B3FA-7704A37BC760_symbolID",
+      "value": "197115BA-7849-42BA-9B38-968350165E16"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AB1D0651-D0D6-470C-90EB-E3C2217BD44C",
+      "overrideName": "4CE1A976-4687-444B-92D1-A87F80AC81F5/6C44C6D8-6566-4556-95CD-8F9CF7CCA4D4_textStyle",
+      "value": "77FA447D-DCE7-4BA8-A81A-2F675FA845E3"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BB97D0AF-C672-4200-83EF-F76C82E2BA9E",
+      "overrideName": "4CE1A976-4687-444B-92D1-A87F80AC81F5/6C44C6D8-6566-4556-95CD-8F9CF7CCA4D4_stringValue",
+      "value": "Discover more"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "74E80D7E-385A-4CB7-AA8E-973D7A32D325",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E28F5BF4-E1C3-45F3-8EE6-4F9815093E0E",
+  "verticalSpacing": 0
+}

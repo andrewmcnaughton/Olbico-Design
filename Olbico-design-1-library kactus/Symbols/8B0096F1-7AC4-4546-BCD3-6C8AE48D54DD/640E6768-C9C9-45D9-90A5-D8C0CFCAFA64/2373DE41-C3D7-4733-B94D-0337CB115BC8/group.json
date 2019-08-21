@@ -1,0 +1,98 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2373DE41-C3D7-4733-B94D-0337CB115BC8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "6688DB21-E3EA-4FA1-AA88-45F892023F01",
+    "height": 260,
+    "width": 214,
+    "x": 315,
+    "y": 328
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "CD653996-E4FC-4076-8049-00E94F434874"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "DC31E295-8DF4-4D2A-8F47-2501271CCD80"
+    },
+    {
+      "class": "rectangle",
+      "id": "01CB3036-555F-4911-BCA2-75BE74D74BA7"
+    },
+    {
+      "class": "text",
+      "id": "817BA34B-6BC4-481D-A6FA-060C700C4480"
+    },
+    {
+      "class": "text",
+      "id": "6BB02235-C1D6-498C-9BB4-9391760052A1"
+    },
+    {
+      "class": "text",
+      "id": "375AFD63-85B1-48EA-972C-B28108F3E267"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "845A1896-33B8-41FD-84BB-6505DD6BB098"
+    }
+  ],
+  "name": "Atom/blog-news-card",
+  "nameIsFixed": false,
+  "resizingConstraint": 33,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B50D7CFE-3879-4803-9BF4-60060003129F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 40,
+        "color": {
+          "_class": "color",
+          "alpha": 0.25,
+          "blue": 0.792156862745098,
+          "green": 0.7686274509803921,
+          "red": 0.3254901960784314
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": false,
+        "offsetX": 0,
+        "offsetY": 10,
+        "spread": 40
+      }
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

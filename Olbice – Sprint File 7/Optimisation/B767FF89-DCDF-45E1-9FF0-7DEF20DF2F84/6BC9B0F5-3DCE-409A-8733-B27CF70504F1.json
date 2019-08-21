@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6BC9B0F5-3DCE-409A-8733-B27CF70504F1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EA53F83B-4C1E-47C3-A9AB-6DADD348EA9D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "12BB79FA-70F0-43F6-A517-B8296CB55622",
+    "height": 385,
+    "width": 315,
+    "x": 30,
+    "y": 2021
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Atom/blog-news-card",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6F283E0F-862D-41BB-B72A-95CCA0DA3CC7",
+      "overrideName": "837BA667-B38D-4D96-80FE-982210E30530_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/b7b59fc4ebc9f7a6e4154fe26fd49979110ee830.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A0062619-7662-46A5-9B62-75CEC6140A37",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2E71B030-9412-42F6-B7F0-A163782B5EC8",
+  "verticalSpacing": 0
+}

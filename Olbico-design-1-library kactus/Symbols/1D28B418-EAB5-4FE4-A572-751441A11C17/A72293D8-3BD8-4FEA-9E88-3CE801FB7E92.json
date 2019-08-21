@@ -1,0 +1,86 @@
+{
+  "_class": "shapePath",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A72293D8-3BD8-4FEA-9E88-3CE801FB7E92",
+  "edited": true,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E770DFCD-5AAE-41A0-BFD0-30327E17FED0",
+    "height": 2.008368200836799,
+    "width": 358.4937238493724,
+    "x": 2,
+    "y": 549.2887029288697
+  },
+  "hasClippingMask": false,
+  "isClosed": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": true,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Stroke 17",
+  "nameIsFixed": false,
+  "pointRadiusBehaviour": 1,
+  "points": [
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.98421423006944375, 0.70060180541624095}",
+      "curveMode": 1,
+      "curveTo": "{0.98421423006944375, 0.70060180541624095}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.99792099792099975, 0.70060180541622685}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{-0.24319083142612566, 0.70060180541624095}",
+      "curveMode": 1,
+      "curveTo": "{-0.24319083142612566, 0.70060180541624095}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.00022306301144525909, 0.70060180541622685}"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3098039215686275,
+          "green": 0.3803921568627451,
+          "red": 0.9921568627450981
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 0,
+        "thickness": 1
+      }
+    ],
+    "do_objectID": "BC687154-521E-49CB-839B-D641819A9058",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

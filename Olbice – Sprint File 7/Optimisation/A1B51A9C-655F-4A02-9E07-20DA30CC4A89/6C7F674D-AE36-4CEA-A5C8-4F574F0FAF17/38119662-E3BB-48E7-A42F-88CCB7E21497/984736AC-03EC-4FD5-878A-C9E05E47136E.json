@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "984736AC-03EC-4FD5-878A-C9E05E47136E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "292DA5FF-ADED-4943-9BD1-A51E6F09B432",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "57080DB5-0DEE-4C8A-B742-E0CFD89D988A",
+    "height": 60,
+    "width": 300,
+    "x": 570,
+    "y": 1495
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "button/large/icon-text",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "49B9A7FD-AA2D-4702-9EDF-C40A14E06BED",
+      "overrideName": "F6289341-A2B6-47D7-B3FA-7704A37BC760/598363F1-1BE3-4F97-A0BB-6284DD696A25_symbolID",
+      "value": "D6AC7BAB-DD0C-4BD8-AF11-2B422220A4B0"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "43455D2B-DF35-457B-AE00-B9442E3D486B",
+      "overrideName": "4CE1A976-4687-444B-92D1-A87F80AC81F5/6C44C6D8-6566-4556-95CD-8F9CF7CCA4D4_textStyle",
+      "value": "DFEEACF6-A958-4486-8989-CEA92338CFFB"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "39C6D349-C76F-41A5-A8EF-AF0D82E21AD6",
+      "overrideName": "4CE1A976-4687-444B-92D1-A87F80AC81F5/6C44C6D8-6566-4556-95CD-8F9CF7CCA4D4_stringValue",
+      "value": "Discover all of our solutions"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3E125AD7-51F5-4F7B-867E-4699D3A8956B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E28F5BF4-E1C3-45F3-8EE6-4F9815093E0E",
+  "verticalSpacing": 0
+}

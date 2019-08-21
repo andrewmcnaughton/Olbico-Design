@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "98767871-4427-4C7F-91D7-0C05DF9563E1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "02297BDB-41F3-49F8-9AC2-7C041CDDBD98",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "07004F61-BC6C-498E-B707-B23D510B05E2",
+    "height": 620,
+    "width": 345,
+    "x": 0,
+    "y": 610
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Mobile/Module/Intro-w-subhead-image-text",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C6DCAD66-0620-4B1F-B755-6CDB0A60FD88",
+      "overrideName": "0F613486-2142-4C76-B669-CBC249F9F4D9_stringValue",
+      "value": "Meet the new member of your Sales team..."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4D3F75A7-6950-4AEB-A52D-D30F5C95AB57",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D3009703-0D34-4A37-997A-E74BD9FC3602",
+  "verticalSpacing": 0
+}

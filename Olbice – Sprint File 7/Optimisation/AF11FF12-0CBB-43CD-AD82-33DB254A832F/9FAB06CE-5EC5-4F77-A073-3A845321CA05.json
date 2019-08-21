@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9FAB06CE-5EC5-4F77-A073-3A845321CA05",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A0EB53F0-739E-4DA0-98FF-3FA2A55879C9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CD0F59E4-DDF3-4004-B4CE-5DF8F33EF2B7",
+    "height": 395,
+    "width": 320,
+    "x": 200,
+    "y": 791
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Atom/blog-news-card",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DA244737-9549-4CA1-896B-82150FEF453C",
+      "overrideName": "837BA667-B38D-4D96-80FE-982210E30530_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/473dd61c966875d3fa6fd176d57ec6582a716bc0.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F19DAA8A-3F9D-46E7-A29D-AC42C63051C2",
+      "overrideName": "3FF30938-4C1F-4BDD-9917-E3D1E0E2ECBE_stringValue",
+      "value": "Wolfert van Duin"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6CDB891E-1DD7-4D30-A3D0-C5239D0854D8",
+      "overrideName": "D4FEF7E3-334A-4E1F-B6E1-A6E0000B51BE_stringValue",
+      "value": "01/04/2019 - 4min"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "041AEB79-6297-494C-A03A-9A77C70281F8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2E71B030-9412-42F6-B7F0-A163782B5EC8",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5EEF9E8F-86C0-49EF-80D8-17AEE74C5E2E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "63D018A5-B100-44F7-8390-7839EA902CAB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "11BD625E-CFDF-4ADF-A0F1-5EAF5FEFBB76",
+    "height": 210,
+    "width": 315,
+    "x": 30,
+    "y": 612
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "0C8A910C-BC66-4214-8FD0-2A50B484E2DF"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "1E0739F1-F9E9-4E91-8446-DB807204AA51"
+    }
+  ],
+  "name": "Placeholder/3d-image",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9D86F8EB-FE15-4DC2-9B7D-A5783B4DE23B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

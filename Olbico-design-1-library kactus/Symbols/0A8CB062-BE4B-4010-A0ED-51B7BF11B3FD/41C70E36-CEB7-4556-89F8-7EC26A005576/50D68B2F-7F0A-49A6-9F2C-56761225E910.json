@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "50D68B2F-7F0A-49A6-9F2C-56761225E910",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 340,
+    "width": 320,
+    "x": 0,
+    "y": 20
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Atom/Listing/Icon-logo-button",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3A483074-E063-4456-BD9F-E7822E7AA0FC",
+      "overrideName": "EED14837-6927-4DB2-93DE-8AA688E48536_symbolID",
+      "value": "0EB91A08-67D9-4141-893A-CB882BE9746C"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3A1401C1-6039-4512-BF20-E3B62316D27E",
+      "overrideName": "454C5E50-6C70-41FE-A999-F3937994D38E_stringValue",
+      "value": "Onboard companies"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0868135B-9077-4232-B9CC-F6DF9213CB47",
+  "verticalSpacing": 0
+}

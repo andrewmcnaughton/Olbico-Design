@@ -1,0 +1,97 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "49B42148-52CF-4D2C-9558-B8E1ACC4EB39",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 420,
+    "width": 340,
+    "x": 460,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "1B1706F5-2D50-4CBF-8720-1072FC804819"
+    },
+    {
+      "class": "rectangle",
+      "id": "7D32D399-D30A-49AB-931F-ACCD9EF37CDB"
+    },
+    {
+      "class": "text",
+      "id": "B72E9C7D-8F17-4729-BD39-FE67D02AE111"
+    },
+    {
+      "class": "text",
+      "id": "62C065A3-DBD1-40E2-8200-514D421DDDF7"
+    },
+    {
+      "class": "text",
+      "id": "38F77902-35DE-4663-86B7-BFABD7DBA7BD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AD5D58DE-F5A1-475D-83D8-95FB4AAEDB5D"
+    }
+  ],
+  "name": "Atom/blog-news-card",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "sharedStyleID": "149EEA9D-4818-41FD-95B0-A1FD9101CDCD",
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "72059342-C0BF-4175-A483-DE72B95185CE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 40,
+        "color": {
+          "_class": "color",
+          "alpha": 0.25,
+          "blue": 0.792156862745098,
+          "green": 0.7686274509803921,
+          "red": 0.3254901960784314
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 10,
+        "spread": 40
+      }
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

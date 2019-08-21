@@ -1,0 +1,69 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4A4EC374-B1BE-4592-A2C7-957C3049AE34",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E3E53005-67BC-4925-BED4-17EFB5764533",
+    "height": 45,
+    "width": 143,
+    "x": 30,
+    "y": 228
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "button/icon-text",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "83A9F3A0-F4D1-4796-AB15-68A6632CE03C",
+      "overrideName": "A29E0867-B49B-402F-B9BB-C4E070AA4C66_symbolID",
+      "value": "1D4166EC-0844-4DB4-976F-BFA74BFAF0DB"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F04FDDFA-C0B0-4853-BDC4-8E45A5538FD1",
+      "overrideName": "9680EF80-D30D-465F-90A7-313341EFDA70_symbolID",
+      "value": "68CD90CE-03B4-4CCD-96E7-77A391E164A0"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A8CE985D-FF7F-4C41-9225-674037D9F560",
+      "overrideName": "16FA44EA-FFFF-43D7-964D-833DB05FD860/AD4A36E2-BE78-461A-B930-48F2A8696DF1_stringValue",
+      "value": "Visit blog"
+    }
+  ],
+  "resizingConstraint": 33,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F2D6AD2B-E415-4EF1-BC11-7A08DA934C92",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3885EEF8-F27C-414D-A23F-C19BD8538E7B",
+  "verticalSpacing": 0
+}

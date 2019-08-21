@@ -1,0 +1,69 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F61A985F-0FBB-4ED2-A866-43C48A74D4EE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CC51FA23-9F32-413A-B063-0C7BFFF6DCAE",
+    "height": 60,
+    "width": 175,
+    "x": 440,
+    "y": 191
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "button/large",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B15973B7-4B5A-4E7B-B9C6-7C06E26F2B79",
+      "overrideName": "9F5E2402-E186-4128-9BB4-E893ABD51FB3/4CE1A976-4687-444B-92D1-A87F80AC81F5/6C44C6D8-6566-4556-95CD-8F9CF7CCA4D4_stringValue",
+      "value": "Book a demo"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4AE4F037-BE33-49AB-9A0E-F92BEA8F2C47",
+      "overrideName": "9F5E2402-E186-4128-9BB4-E893ABD51FB3/F6289341-A2B6-47D7-B3FA-7704A37BC760_symbolID",
+      "value": "CCFDD1E1-646F-4BFA-8BB7-C34193D1A70B"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AF9F262A-3D6A-44B5-81FE-B7DED90C3E2D",
+      "overrideName": "9F5E2402-E186-4128-9BB4-E893ABD51FB3/4CE1A976-4687-444B-92D1-A87F80AC81F5/6C44C6D8-6566-4556-95CD-8F9CF7CCA4D4_textStyle",
+      "value": "A01A4F3A-7EF0-4805-A2CF-C5C50B56DD00"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A37553F3-3217-4371-870B-772F0F16E2A8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "668A852D-1780-4FA4-8F02-491AF9F96D08",
+  "verticalSpacing": 0
+}

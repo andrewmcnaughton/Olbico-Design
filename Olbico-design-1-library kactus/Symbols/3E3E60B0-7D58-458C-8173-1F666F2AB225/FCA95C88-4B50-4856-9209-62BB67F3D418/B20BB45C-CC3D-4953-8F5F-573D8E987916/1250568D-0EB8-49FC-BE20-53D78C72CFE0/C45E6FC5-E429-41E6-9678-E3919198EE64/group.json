@@ -1,0 +1,88 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C45E6FC5-E429-41E6-9678-E3919198EE64",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "F6AC46BC-4981-4EEA-9D0E-78EE1B516D6E",
+    "height": 20,
+    "width": 21.48148148148148,
+    "x": 1.332267629550188e-13,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "6930E01C-F235-4927-9E54-B1293DBDE1E5"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "13FC8C54-1E4F-42F4-890B-08D8F6A354A8"
+    },
+    {
+      "class": "shapePath",
+      "id": "B5309E63-A053-4AF4-B1C6-95EEAE73341F"
+    },
+    {
+      "class": "shapePath",
+      "id": "928D3212-0512-47CF-95D7-78BE1651CFB1"
+    },
+    {
+      "class": "shapePath",
+      "id": "30E73B71-1E03-43D5-B6B5-04FEF2E16296"
+    },
+    {
+      "class": "shapePath",
+      "id": "7CEE4113-6F4F-482D-9C4A-979973D0CB50"
+    },
+    {
+      "class": "shapePath",
+      "id": "DF86C3FF-C9BE-41B0-B21A-04D3D21AA8B9"
+    },
+    {
+      "class": "shapePath",
+      "id": "D06A5D7C-CCF2-44FA-B6CE-6C3733D0EDA9"
+    },
+    {
+      "class": "shapePath",
+      "id": "A3A0D81F-279D-4393-9B60-196F65DEBF72"
+    },
+    {
+      "class": "shapePath",
+      "id": "181BE40A-F88F-4493-A261-D30540A5E3BB"
+    }
+  ],
+  "name": "Group 12",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3BAD5560-DE3A-44EE-BA9C-626A8278BD2E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

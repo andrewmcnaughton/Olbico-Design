@@ -1,0 +1,147 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "18E01E7A-48DB-4D94-82C3-4E9C683E631A",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "A07EA52E-2E79-4AFA-9404-23B1FE30204E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7A79C332-D749-40FE-9C01-590468DC430C",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "525AD829-0DBA-4B95-8687-BA7994F880D7",
+    "height": 1887,
+    "width": 375,
+    "x": 5549,
+    "y": -3022
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "B4BDAE81-727B-4D70-93A0-2E2DFEA98D07",
+    "gridSize": 5,
+    "isEnabled": false,
+    "thickGridTimes": 5
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "62E21931-3E9A-4A99-A84A-DD4D0FBA9C58"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "2BAC4593-2A5F-439A-9BC0-DA62D3A67260",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "701AF26A-8785-48BA-A77F-7C254DE1D894"
+    },
+    {
+      "class": "rectangle",
+      "id": "D85448EA-0C36-41EB-991C-2BE43E2743D9"
+    },
+    {
+      "class": "group",
+      "id": "0B887547-02A6-4099-B82F-35FD5C54AE9C"
+    },
+    {
+      "class": "group",
+      "id": "9ABA779B-1931-4068-9090-C8454306212B"
+    },
+    {
+      "class": "group",
+      "id": "445657D1-CB77-4C3C-9E05-710BDAF4A6DC"
+    },
+    {
+      "class": "group",
+      "id": "2FB0505A-692A-4085-BC6D-DE74AD0D1A4C"
+    },
+    {
+      "class": "text",
+      "id": "CE63BA0C-911D-4BDC-BD23-884A25B72040"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 45,
+    "do_objectID": "56C4D4A9-AE66-447D-9422-14F9DB4C06A8",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 15,
+    "guttersOutside": false,
+    "horizontalOffset": 15,
+    "isEnabled": false,
+    "numberOfColumns": 6,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 345
+  },
+  "name": "M - X - 404",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 812,
+    "name": "iPhone X",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "89EE2335-42B0-43D8-86EE-1AFF49DDF54D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A70D606B-7DE6-468B-AD4A-AA421CF6363E",
+    "guides": [
+    ]
+  }
+}

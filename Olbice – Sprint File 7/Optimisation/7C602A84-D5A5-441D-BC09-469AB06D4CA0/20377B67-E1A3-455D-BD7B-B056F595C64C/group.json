@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "20377B67-E1A3-455D-BD7B-B056F595C64C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3E9F93D6-4112-4F80-AA55-A3FECA09E033",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D958457F-F269-4ACC-AFD6-81E1EFC0D531",
+    "height": 1000,
+    "width": 1440,
+    "x": 0,
+    "y": 1080
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "292BC45C-0280-42D7-A9A9-08B2927AED73"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "87099D5C-8BB7-4D6E-A8F6-F25CD95300DA"
+    }
+  ],
+  "name": "Book demo",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "29DDBC5F-3DA9-435E-90BA-E152EC1A2330",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

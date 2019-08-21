@@ -1,0 +1,485 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colorAssets": [
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9998809695243835,
+          "green": 1,
+          "red": 0.9998916983604431
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2784313725490196,
+          "green": 0.06274509803921569,
+          "red": 0.05098039215686274
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 0.977782012195122,
+          "red": 0.977782012195122
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9882352941176471,
+          "green": 0.9411764705882353,
+          "red": 0.9372549019607843
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.984313725490196,
+          "green": 0.9254901960784314,
+          "red": 0.8941176470588235
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9686274509803922,
+          "green": 0.8470588235294118,
+          "red": 0.792156862745098
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9333333333333333,
+          "green": 0.7450980392156863,
+          "red": 0.6745098039215687
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6392156862745098,
+          "green": 0.5294117647058824,
+          "red": 0.5254901960784314
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4403589221014493,
+          "green": 0.2462009199722768,
+          "red": 0.2356104834925037
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3410043025362319,
+          "green": 0.134248374025476,
+          "red": 0.1229707779248893
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2235294117647059,
+          "green": 0.05098039215686274,
+          "red": 0.0392156862745098
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3161798007246377,
+          "green": 0.1100839293175559,
+          "red": 0.09884233633171506
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.792156862745098,
+          "green": 0.7686274509803921,
+          "red": 0.3254901960784314
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9764705882352941,
+          "green": 0.9764705882352941,
+          "red": 0.9294117647058824
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.984313725490196,
+          "green": 0.984313725490196,
+          "red": 0.8666666666666667
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8941176470588235,
+          "green": 0.8823529411764706,
+          "red": 0.6627450980392157
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8509803921568627,
+          "green": 0.8352941176470589,
+          "red": 0.5254901960784314
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3098039215686275,
+          "green": 0.3803921568627451,
+          "red": 0.9921568627450981
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.7058823529411764,
+          "green": 0.7333333333333333,
+          "red": 0.996078431372549
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5725490196078431,
+          "green": 0.615686274509804,
+          "red": 0.996078431372549
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4431372549019608,
+          "green": 0.4980392156862745,
+          "red": 0.9921568627450981
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9686274509803922,
+          "green": 0.9568627450980391,
+          "red": 0.9450980392156862
+        }
+      }
+    ],
+    "colors": [
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9998809695243835,
+        "green": 1,
+        "red": 0.9998916983604431
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.2784313725490196,
+        "green": 0.06274509803921569,
+        "red": 0.05098039215686274
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 1,
+        "green": 0.977782012195122,
+        "red": 0.977782012195122
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9882352941176471,
+        "green": 0.9411764705882353,
+        "red": 0.9372549019607843
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.984313725490196,
+        "green": 0.9254901960784314,
+        "red": 0.8941176470588235
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9686274509803922,
+        "green": 0.8470588235294118,
+        "red": 0.792156862745098
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9333333333333333,
+        "green": 0.7450980392156863,
+        "red": 0.6745098039215687
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.6392156862745098,
+        "green": 0.5294117647058824,
+        "red": 0.5254901960784314
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.4403589221014493,
+        "green": 0.2462009199722768,
+        "red": 0.2356104834925037
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.3410043025362319,
+        "green": 0.134248374025476,
+        "red": 0.1229707779248893
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.2235294117647059,
+        "green": 0.05098039215686274,
+        "red": 0.0392156862745098
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.3161798007246377,
+        "green": 0.1100839293175559,
+        "red": 0.09884233633171506
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.792156862745098,
+        "green": 0.7686274509803921,
+        "red": 0.3254901960784314
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9764705882352941,
+        "green": 0.9764705882352941,
+        "red": 0.9294117647058824
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.984313725490196,
+        "green": 0.984313725490196,
+        "red": 0.8666666666666667
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.8941176470588235,
+        "green": 0.8823529411764706,
+        "red": 0.6627450980392157
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.8509803921568627,
+        "green": 0.8352941176470589,
+        "red": 0.5254901960784314
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.3098039215686275,
+        "green": 0.3803921568627451,
+        "red": 0.9921568627450981
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.7058823529411764,
+        "green": 0.7333333333333333,
+        "red": 0.996078431372549
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.5725490196078431,
+        "green": 0.615686274509804,
+        "red": 0.996078431372549
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.4431372549019608,
+        "green": 0.4980392156862745,
+        "red": 0.9921568627450981
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9686274509803922,
+        "green": 0.9568627450980391,
+        "red": 0.9450980392156862
+      }
+    ],
+    "gradientAssets": [
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+      {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/e6242e3392a4c7bb2d080e63c8d3a20f72f97eca.png",
+        "_ref_class": "MSImageData"
+      }
+    ]
+  },
+  "colorSpace": 0,
+  "do_objectID": "D4C84C4B-D013-48FD-A26E-45443733D38D",
+  "foreignLayerStyles": [
+  ],
+  "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
+    {
+      "_class": "MSImmutableForeignTextStyle",
+      "libraryID": "65B5C7C2-B5D4-479A-8D00-86F7004C16DC",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "82322FA4-2C9B-4079-A899-E709E00BEC4B",
+        "name": "BUTTON/WHITE/CENTER",
+        "value": {
+          "_class": "style",
+          "endMarkerType": 0,
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "textStyle": {
+            "_class": "textStyle",
+            "encodedAttributes": {
+              "MSAttributedStringColorAttribute": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.9998809695243835,
+                "green": 1,
+                "red": 0.9998916983604431
+              },
+              "MSAttributedStringFontAttribute": {
+                "_class": "fontDescriptor",
+                "attributes": {
+                  "name": "IBMPlexSans",
+                  "size": 18
+                }
+              },
+              "kerning": 1,
+              "paragraphStyle": {
+                "_class": "paragraphStyle",
+                "alignment": 2,
+                "allowsDefaultTighteningForTruncation": 0,
+                "maximumLineHeight": 24,
+                "minimumLineHeight": 24
+              }
+            },
+            "verticalAlignment": 0
+          },
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "81F1724C-9BB3-4DEC-9B8B-44E95B8A14D4[A01A4F3A-7EF0-4805-A2CF-C5C50B56DD00]",
+      "sourceLibraryName": "Olbico-design-1-library",
+      "symbolPrivate": true
+    }
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "57.1",
+    "build": 83088,
+    "version": 119
+  },
+  "pages": [
+    "Style Guide",
+    "Symbols",
+    "Design boards"
+  ],
+  "userInfo": {
+    "com.abstractapp.sketchplugin.1685a5c9-5230-4d37-963c-5efa0f361065": {
+      "metadata": {
+        "abstractFileVersion": 2,
+        "baseSHA": "5a6c9b561dd0d164b4be74140cab6df7e3a26cb8",
+        "branchId": "master",
+        "branchName": "Master",
+        "fileId": "95E0CCD8-4A0C-4C54-88D3-BB65D8C8C6BB",
+        "fileTreeSHA": "25bc942cea08e3bdee58ba795a8ef0fb48a01f69",
+        "name": "Olbico-design-1-library",
+        "projectId": "b0b2331b-2992-4958-b10c-579ad547c15c",
+        "projectName": "Olbico"
+      }
+    }
+  }
+}

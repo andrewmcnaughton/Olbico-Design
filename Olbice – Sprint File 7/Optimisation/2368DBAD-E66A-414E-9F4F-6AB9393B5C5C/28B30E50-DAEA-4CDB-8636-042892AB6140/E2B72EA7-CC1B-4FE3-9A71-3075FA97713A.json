@@ -1,0 +1,76 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E2B72EA7-CC1B-4FE3-9A71-3075FA97713A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "76DE58FD-1C38-4134-820A-88B137084AC5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D43A5206-D1A1-414F-81D7-EAFFA2AC7568",
+    "height": 620,
+    "width": 345,
+    "x": 0,
+    "y": 1587
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Mobile/Module/Intro-w-subhead-image-text",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6F948D8E-0849-4C31-8D6A-A6A5F556329A",
+      "overrideName": "F7395C4A-73AF-41BC-985E-C577B9BC21A5_symbolID",
+      "value": "9B62DB78-9996-4D5A-8811-CC8951A16F2B"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "75E6F439-4F8A-4A84-971A-05B8B557F6FC",
+      "overrideName": "0F613486-2142-4C76-B669-CBC249F9F4D9_stringValue",
+      "value": "Title text goes here for this vertical"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3A45EFD1-8E8D-4E30-B607-E2079C9638D2",
+      "overrideName": "8B966AC5-68F5-4846-94B1-BD78737E846A_stringValue",
+      "value": "Marketing deparments can become more efficient with olbico… ut perspici iste natus error sit voluptatem…"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CD981CA9-843D-4A8F-880F-6A2B1E75019F",
+      "overrideName": "CCA624F6-0BE8-4E66-B5DA-8C97E4BB13E2_stringValue",
+      "value": "Olbico + Marketing"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7F5DBCBC-2B26-4191-AADC-5036C07EF343",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D3009703-0D34-4A37-997A-E74BD9FC3602",
+  "verticalSpacing": 0
+}

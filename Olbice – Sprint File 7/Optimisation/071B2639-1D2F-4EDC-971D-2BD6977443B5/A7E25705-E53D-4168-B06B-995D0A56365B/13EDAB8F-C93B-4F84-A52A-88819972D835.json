@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "13EDAB8F-C93B-4F84-A52A-88819972D835",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F1A423C8-F604-45D8-9AC3-8EA6B5773173",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C1D14E12-89AD-45BA-8E47-7E1CA3046C53",
+    "height": 1000,
+    "width": 1440,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Footer/Alternative-setup",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "82749E60-F9D1-4DF2-A369-9A36AB12B555",
+      "overrideName": "808611C7-7E00-43B5-A240-C66CB84A86C5/78FCCC97-F6D8-4336-8074-6EF9BF9D08EE_stringValue",
+      "value": "Service & Support\nDownloads\nProduct Updates\nFile a ticket"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7C8CD781-3FBC-412B-A6A6-E396AF640CD9",
+      "overrideName": "808611C7-7E00-43B5-A240-C66CB84A86C5/32F190FD-B8A7-47EE-861D-71BBBD84724B_stringValue",
+      "value": "Contact\nContact page\nBook a demo"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EE0A032B-9CB8-4220-B7DD-5BBEE228837A",
+      "overrideName": "808611C7-7E00-43B5-A240-C66CB84A86C5/7E8C4032-02A5-4A09-A31A-2360C24FFD76_stringValue",
+      "value": "Why Olbico?\nVodafone\nManutan\nEneco"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4E10FCFA-75B3-42C4-AD88-B91191952E19",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "04C48BC5-5D7D-41EC-9DF4-9EC7BC0A29B6",
+  "verticalSpacing": 0
+}

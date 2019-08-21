@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3C308F61-2E8B-4A61-8F44-52EBE0EAC602",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5297BCD2-1244-43D3-88CF-9D6970760928",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4435253D-1D83-414A-BB83-BCA24400B060",
+    "height": 748,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "5D2CFD7F-5296-4616-85DE-8FCDCCCDA50A"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "DA26CFEB-FA57-4165-9795-5A86A19DD56E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "267BEACD-D01B-43B5-8E75-98333627E834"
+    }
+  ],
+  "name": "Header and chat",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "209B18AF-C6E3-4C83-814E-B5075A197C5A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

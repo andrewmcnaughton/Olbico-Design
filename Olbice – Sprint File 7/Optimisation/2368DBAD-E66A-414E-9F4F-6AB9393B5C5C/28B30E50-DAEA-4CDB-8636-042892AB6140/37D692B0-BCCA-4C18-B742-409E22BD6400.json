@@ -1,0 +1,76 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "37D692B0-BCCA-4C18-B742-409E22BD6400",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F93B701A-B864-4F71-97D2-D55578144442",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AA3DE979-33C2-49F3-A380-08A0DCEC7F74",
+    "height": 620,
+    "width": 345,
+    "x": 0,
+    "y": 2267
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Mobile/Module/Intro-w-subhead-image-text",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FB3D280C-63B2-46AF-B300-0BD4D1AE9AD5",
+      "overrideName": "F7395C4A-73AF-41BC-985E-C577B9BC21A5_symbolID",
+      "value": "2A2ED2EC-29BC-4CEF-8135-9AEF36F47D43"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "83F7E9B1-9DF5-4A93-A50B-1446BC6D269D",
+      "overrideName": "0F613486-2142-4C76-B669-CBC249F9F4D9_stringValue",
+      "value": "Title text goes here for this vertical"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "612188AF-CBD7-4BB2-A7A0-A826F665E83B",
+      "overrideName": "8B966AC5-68F5-4846-94B1-BD78737E846A_stringValue",
+      "value": "Finance deparments count on us to help… Sed ut perspiciatis unde omnis iste natus error sit voluptatem…"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F6E60053-A89F-41FA-A9D4-791E6EDFD107",
+      "overrideName": "CCA624F6-0BE8-4E66-B5DA-8C97E4BB13E2_stringValue",
+      "value": "Olbico + Finance"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "55FC0E84-537D-48DA-AD3F-DD2443F8CA46",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D3009703-0D34-4A37-997A-E74BD9FC3602",
+  "verticalSpacing": 0
+}

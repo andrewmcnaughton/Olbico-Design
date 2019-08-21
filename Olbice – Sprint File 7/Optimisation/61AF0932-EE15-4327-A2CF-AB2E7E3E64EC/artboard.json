@@ -1,0 +1,167 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "236D0596-3F69-4E13-BCFB-A7352D1A1E1F",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "61AF0932-EE15-4327-A2CF-AB2E7E3E64EC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "938DBB43-DB97-4EA5-B42F-B5CE45C1FB81",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "557FED32-7BB0-4250-BCE6-455DD711CC1E",
+    "height": 900,
+    "width": 1440,
+    "x": -785,
+    "y": 2273
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "961E5467-D76E-4FAA-80BC-F372C4C08A75",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "C30338AC-84BE-4C25-8582-74BF61B1DC0C"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D151A742-3B7E-4ACC-B8C6-E8657B8590C4",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "C32AD1C9-2192-4ED5-B74F-D1F3DBC06E62"
+    },
+    {
+      "class": "rectangle",
+      "id": "20D78664-C956-4519-B798-B70BC4453C4C"
+    },
+    {
+      "class": "rectangle",
+      "id": "09680CDE-BEAE-4949-9499-484ACC221411"
+    },
+    {
+      "class": "text",
+      "id": "3DF7E771-1549-4EB6-9CB3-FDA6D680D9A8"
+    },
+    {
+      "class": "text",
+      "id": "22BA73BA-7045-43DE-B092-6F78C44D47DA"
+    },
+    {
+      "class": "text",
+      "id": "8255F6DF-79F1-4C6D-BCB3-44E255B551DE"
+    },
+    {
+      "class": "text",
+      "id": "CB9F23CE-3755-43E1-A904-2CDE540817D4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F7C09936-6484-4647-827B-2EB6A4B411BF"
+    },
+    {
+      "class": "rectangle",
+      "id": "60F9D807-3509-4A0A-A360-474585A1B965"
+    },
+    {
+      "class": "bitmap",
+      "id": "2149B9F2-5408-4CE1-8791-C685D29DC073"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BE140F36-8464-41D7-80FA-DDBC6FBCA3E9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "33C9F212-69E7-4EE1-9E59-4A9D1D57BC53"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 80,
+    "do_objectID": "4D161232-F9FB-42FB-A12B-D7E6094980A7",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 40,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1440
+  },
+  "name": "D - 0 - 1 - Menu Active - Service",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AE373671-628A-4A4C-B88D-3657AFEA12A2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "5CDF47C0-540F-4C18-8675-32CA858D4857",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D73B1C0D-BF5B-46A4-A029-A7F486DA5F32",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1EC4D5C5-5F94-4873-BAC6-F14BF8AA0BCB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "31115286-B031-4E6B-BCCE-762BA9379A85",
+    "height": 150,
+    "width": 1440,
+    "x": 0,
+    "y": 2315
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Module/Banner/Newsletter",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FD6B100A-4745-4BDA-B64B-C90347880AA0",
+      "overrideName": "27B44D03-105C-4EFD-9FFB-606012B7F423/9F5E2402-E186-4128-9BB4-E893ABD51FB3/4CE1A976-4687-444B-92D1-A87F80AC81F5/6C44C6D8-6566-4556-95CD-8F9CF7CCA4D4_stringValue",
+      "value": "Subscribe to newsletter"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C71389D8-8362-46AF-81ED-3FA1FE277380",
+      "overrideName": "DC9F47EE-0980-4826-9C34-1AC4C12726B5_stringValue",
+      "value": "Keep upto date with the latest news.."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CD4F6186-3AE3-4030-A824-1CCBFEC0F54D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C1FC389A-58AE-47A7-A4FC-FB2C9CFBD327",
+  "verticalSpacing": 0
+}

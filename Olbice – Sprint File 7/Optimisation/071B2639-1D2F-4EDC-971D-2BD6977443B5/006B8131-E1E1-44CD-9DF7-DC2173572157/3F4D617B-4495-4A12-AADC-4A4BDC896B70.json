@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3F4D617B-4495-4A12-AADC-4A4BDC896B70",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7D7528CE-5B9C-4DD3-A81A-E49AFBF3C086",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5279A432-4652-4E49-97D2-A8C2609CB3D4",
+    "height": 900,
+    "width": 720,
+    "x": 0,
+    "y": 21
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Illustration/Homepage",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "CA9F98FB-4B93-4D3D-86A4-7DD4E9150349",
+      "opacity": 0.5
+    },
+    "do_objectID": "763E61D5-4EF7-405B-BAE9-7C0F16FA2257",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "18CEC270-B153-4292-803F-CA73E4A5E38A",
+  "verticalSpacing": 0
+}

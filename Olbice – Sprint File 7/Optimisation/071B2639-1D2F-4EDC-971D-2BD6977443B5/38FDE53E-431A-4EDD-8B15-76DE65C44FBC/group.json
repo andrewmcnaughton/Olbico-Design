@@ -1,0 +1,125 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "38FDE53E-431A-4EDD-8B15-76DE65C44FBC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "36A16E74-EABD-48CE-8F11-5E5461E98FBC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E741B99E-ADED-46A1-94D1-E843C30D5831",
+    "height": 595,
+    "width": 1180,
+    "x": 130,
+    "y": 2602
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "31C3D8EC-6CE0-44C0-9657-94ED54213FEB"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "55C7A45F-26D4-4145-BE3E-C07933EFC01A"
+    },
+    {
+      "class": "rectangle",
+      "id": "DF920D06-C946-4553-8478-9D3ACF41B6FA"
+    },
+    {
+      "class": "text",
+      "id": "91A8AE92-F4E3-4392-A714-EC3E74146630"
+    },
+    {
+      "class": "text",
+      "id": "E69AC0C4-2CD7-4685-887B-AC672F712C62"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FF3FE328-C3A6-452E-8E95-98B3DA32BE03"
+    },
+    {
+      "class": "rectangle",
+      "id": "0677D37E-33B4-4252-83AF-7564379CB4D5"
+    },
+    {
+      "class": "text",
+      "id": "51084264-FA50-499B-A11C-DA552089A973"
+    },
+    {
+      "class": "text",
+      "id": "A233D544-5014-4528-B765-AC5C3A6D05F7"
+    },
+    {
+      "class": "rectangle",
+      "id": "F9DBFF3A-653F-4FE2-A9CE-AB950BD15586"
+    },
+    {
+      "class": "text",
+      "id": "20AFD97D-46C3-4610-BBEB-55E15267A94D"
+    },
+    {
+      "class": "text",
+      "id": "C0A058D2-F37F-4672-8E3C-A102388E597D"
+    },
+    {
+      "class": "bitmap",
+      "id": "476BE53A-20BF-4EDA-8632-3819F5091C8E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "25E4D79D-F07A-4EE5-90E0-42DE07EB8171"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0A601171-9812-4D9A-A86B-1716917BC6FB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "836EC69B-3319-47A5-92C8-90680CB6DCFF"
+    },
+    {
+      "class": "oval",
+      "id": "74EAB0A0-1D76-40C8-B1F2-14382F885EA6"
+    },
+    {
+      "class": "oval",
+      "id": "1CEB7900-9880-49A2-BAEA-791986DD5AE9"
+    },
+    {
+      "class": "oval",
+      "id": "862AD8FB-52F1-4D43-A177-64C66FE79C4F"
+    }
+  ],
+  "name": "Improve workflow",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F57A113F-D742-4771-AFE0-E89CA4240080",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
